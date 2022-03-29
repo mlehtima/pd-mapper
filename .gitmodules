@@ -1,0 +1,3 @@
+[submodule "pd-mapper"]
+	path = pd-mapper
+	url = https://github.com/andersson/pd-mapper.git
